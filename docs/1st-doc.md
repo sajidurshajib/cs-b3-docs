@@ -11,7 +11,7 @@
 
 **Cyber Security Field**
 ![Cyber Secuity Field](../assets/img/cyber-security-fileds-1st.jpeg)
-Figure: Cyber Security Fields
+image: Cyber Security Fields
 
 **Cyber Security Opportunities - Home / Abroad**
 
