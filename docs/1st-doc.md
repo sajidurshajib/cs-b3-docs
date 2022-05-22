@@ -30,8 +30,8 @@ Similar to IT security, cyber security aims to keep information safe but it espe
 
 
 **Cyber Security Team**
-1. **Blue Team**(SOC / SEC Analyst) - identifies security threats and risks in the operating environment, and in cooperation with the customer, analyzes the network environment and its current state of security readiness.[2]
-2. **Red Team**(Offensive Sec / Pentest) - The role of red teams typically includes pentesting, exploit development, and or web and mobile application pentesting. Additionally, they have been known to explore vulnerabilities or potential angles of attack, finding areas of risk and reporting findings back to the company.[3]
+1. **Blue Team** (SOC / SEC Analyst) - identifies security threats and risks in the operating environment, and in cooperation with the customer, analyzes the network environment and its current state of security readiness.[2]
+2. **Red Team** (Offensive Sec / Pentest) - The role of red teams typically includes pentesting, exploit development, and or web and mobile application pentesting. Additionally, they have been known to explore vulnerabilities or potential angles of attack, finding areas of risk and reporting findings back to the company.[3]
 3. **Purple Team** - Purple team members oversee and optimise red and blue teams to establish greater communication channels so they can foster a more collaborative culture.[4]
 
 
