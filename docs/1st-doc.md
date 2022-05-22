@@ -9,7 +9,9 @@
 
 200 to 500 is the target hour. We should spent that much time for gaining knowledge about Basic Cyber Security and Career path. 
 
-
+**Cyber Security Field**
+![Cyber Secuity Field](../assets/img/cyber-security-fileds-1st.jpeg)
+Figure: Cyber Security Fields
 
 **Cyber Security Opportunities - Home / Abroad**
 
