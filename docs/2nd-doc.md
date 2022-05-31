@@ -1,7 +1,7 @@
 # 2. More keywords
 
 ### keywords
-```vm``` ```os``` ```kali linux``` ```snapshot```
+```vm``` ```os``` ```kali linux``` ```snapshot``` ```nat``` ```host``` ```bridge```
 
 
 ## Topic
@@ -11,7 +11,7 @@
 2. Tools > Preferences > Network > Add NatNetwork
 3. Kali linux vm > Settings > Network > Select Nat Network 
 4. Advanced > allow vm (important to ping from host os to guest os)
-[Network adapter screenshot]
+![Nat, Host, Bridge network](../assets/img/vm-net-nat-host.webp)
 
 ## Learn
 ## Work todo
