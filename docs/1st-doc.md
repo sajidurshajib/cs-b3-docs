@@ -53,7 +53,7 @@ Confidentiality, integrity and availability, also known as the CIA triad, is a m
 
 
 ## Work todo
-1. Intsall Kali linx in Virtual Box with proper settings.
+1. Install Kali linux in Virtual Box with proper settings.
 2. Install Metasploitable in Virtual Box. (512mb ram is enough for this )
 
 
@@ -69,14 +69,14 @@ Confidentiality, integrity and availability, also known as the CIA triad, is a m
 ## Links
 1. [LastPass](https://www.lastpass.com/)
 2. [Notion](https://www.notion.so)
-3. [Repl](https://replit.com/)
+3. [ReplIT](https://replit.com/)
 4. [Colac](https://cocalc.com/)
 5. [Cybrary.com](https://cybrary.com)
 6. [INE - Pentesting](https://my.ine.com/)
 7. [TryHackMe.com](https://tryhackme.com/) 
 
 
-## Referance 
+## Reference 
 [1] [IT and Cyber security](https://www.logsign.com/blog/it-security-vs-cyber-security-what-is-the-difference/)
 
 [2] [Blue Team](https://csrc.nist.gov/glossary/term/blue_team)
