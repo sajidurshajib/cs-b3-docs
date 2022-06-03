@@ -2,5 +2,5 @@
 
 
 ### Index
-1. [Introuction](./docs/1st-doc.md) 
-2. [Key words](./docs/2nd-doc.md)
+1. [Introduction](./docs/1st-doc.md) 
+2. [Risk and Threat](./docs/2nd-doc.md)
