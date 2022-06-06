@@ -102,3 +102,12 @@ also learn linux file structure.
 ## Reference 
 1. [Hashing](https://www.thesslstore.com/blog/difference-encryption-hashing-salting)
 2. [Different type pentest](https://purplesec.us/types-penetration-testing/)
+
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+
+[< prev](./2nd-doc.md) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [next >](./4th-doc.md)
+
+[<< return to index](../README.md)
