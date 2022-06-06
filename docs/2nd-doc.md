@@ -4,7 +4,7 @@
 ```vm``` ```os``` ```kali linux``` ```snapshot``` ```nat``` ```host``` ```bridge``` ```defender 365``` ```severity``` ```assets``` ```risk mitigate``` ```vulnerable``` ```apt attack``` ```security trade off``` ```endpoint``` ```exploit```
 
 
-## Topic
+## Topics
 
 **Setup VM for your Kali Machine**
 1. Tools > Preferences > Install Oracle VM extension pack
