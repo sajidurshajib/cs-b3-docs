@@ -1,7 +1,7 @@
 # 8. Passive Recon
 
 ### keywords
-```SEIM``` ```WAZUH``` ```splunk``` 
+```SEIM``` ```WAZUH``` ```splunk``` ```google dork```
 
 ## Topics
 
@@ -47,6 +47,13 @@ Where exposes your email. It will find for you.
 
 **Strong password hacking time**
 ![Strong Password Hacking Time](../assets/img/Hive-Systems-Password-Table-1-770x346.jpg)
+
+**Pentesting Scope**
+![Pentesting](../assets/img/pentest-circle.png)
+
+
+## Learn
+1. Google Dork
 
 
 ## Others
