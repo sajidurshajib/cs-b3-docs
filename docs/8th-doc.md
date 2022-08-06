@@ -1,7 +1,7 @@
 # 8. Passive Recon
 
 ### keywords
-```SEIM``` ```WAZUH``` ```splunk``` ```google dork```
+```SEIM``` ```WAZUH``` ```splunk``` ```google dork``` ```docker```
 
 ## Topics
 
@@ -13,7 +13,7 @@
 
 **FootPrinting**
 
-There are two types of footprinting in ethical hacking:
+There are two types of footprinting in ethical hacking:[1]
 
 1. active footprinting
 2. passive footprinting
@@ -52,8 +52,13 @@ Where exposes your email. It will find for you.
 ![Pentesting](../assets/img/pentest-circle.png)
 
 
+**Docker**
+
+
+
 ## Learn
-1. Google Dork
+1. Google Dork [Link 8]
+2. Learn from medium blog [2]
 
 
 ## Others
@@ -73,6 +78,8 @@ Where exposes your email. It will find for you.
 5. [Alison](https://alison.com/)
 6. [Comptia](https://www.comptia.org/home)
 7. [Splunk Training](https://www.splunk.com/en_us/training.html?sort=Newest)
+8. [Google Hacking Database](https://www.exploit-db.com/google-hacking-database)
 
 ## Reference 
 1. [Foot Printing](https://www.techtarget.com/searchsecurity/definition/footprinting)
+2. [Medium Blog](https://medium.com/)
