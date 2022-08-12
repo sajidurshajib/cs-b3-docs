@@ -53,8 +53,20 @@ Where exposes your email. It will find for you.
 
 
 **Docker**
+Install docker and use some docker image. You can use DVWA docker image.
+
+**Juice Shop**
+Check Juice Shop vulnerable database for pentest practice. You can try sql injection here. [Link 9]
 
 
+**Wappalyzer addon**
+Wappalyzer is a technology profiler that shows you what websites are built with. 
+
+**BuiltWith**
+Lookup site. [Link 10]
+
+**TinyEye**
+Reverse image search. Also search reverse image search site. [Link 11]
 
 ## Learn
 1. Google Dork [Link 8]
@@ -66,7 +78,8 @@ Where exposes your email. It will find for you.
 
 **Comptia :** Start or grow your career in IT with an IT certification from CompTIA. Find everything you need to get certified. [Link 6]
 
-**Splunk Trainin :** Splunk Training + Certification.[Link 7]
+**Splunk Trainin :** Splunk Training + Certification.[Link 7] Also check crowdstrike and alienvault certifications.
+
 
 
 
@@ -79,6 +92,9 @@ Where exposes your email. It will find for you.
 6. [Comptia](https://www.comptia.org/home)
 7. [Splunk Training](https://www.splunk.com/en_us/training.html?sort=Newest)
 8. [Google Hacking Database](https://www.exploit-db.com/google-hacking-database)
+9. [Juice Shop](https://github.com/juice-shop/juice-shop)
+10. [BuiltWith](https://builtwith.com/)
+11. [TinyEye](https://tineye.com/)
 
 ## Reference 
 1. [Foot Printing](https://www.techtarget.com/searchsecurity/definition/footprinting)
