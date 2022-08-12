@@ -99,3 +99,4 @@ Reverse image search. Also search reverse image search site. [Link 11]
 ## Reference 
 1. [Foot Printing](https://www.techtarget.com/searchsecurity/definition/footprinting)
 2. [Medium Blog](https://medium.com/)
+3. [SOC Responsibility](https://www.exabeam.com/security-operations-center/security-operations-center-roles-and-responsibilities/)
