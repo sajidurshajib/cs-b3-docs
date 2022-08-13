@@ -1,7 +1,7 @@
 # 8. Passive Recon
 
 ### keywords
-```SEIM``` ```WAZUH``` ```splunk``` ```google dork``` ```docker```
+```SEIM``` ```WAZUH``` ```splunk``` ```google dork``` ```docker``` ```juice shop``` ```wappalyzer```
 
 ## Topics
 
