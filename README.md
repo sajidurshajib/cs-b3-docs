@@ -7,3 +7,4 @@
 3. [Hashing and Basic Linux Command](./docs/3rd-doc.md)
 
 8. [Passive Recon](./docs/8th-doc.md)
+9. [Active Recon](./docs/9th-doc.md) 
